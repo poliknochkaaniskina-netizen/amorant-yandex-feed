@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-11-28T00:00:00+03:00">
+  <shop>
+    <name>Аморант</name>
+    <company>Аморант</company>
+    <url>https://amorant.org/</url>
+
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+
+    <categories>
+      <category id="1">Сэндвич-панели</category>
+    </categories>
+
+    <offers>
+
+      <!-- Минеральная вата, стеновые -->
+      <offer id="wall-mw-50" available="true">
+        <url>https://amorant.org/katalog/tproduct/794695873-463872512451-stenovie-napolnitel-mineralnaya-vata-50</url>
+        <price>2299</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild3239-6636-4132-b030-303265653730/-/cover/720x700/center/center/-/format/webp/-A-5fp2b5bE.jpg.webp</picture>
+        <name>Стеновые сэндвич-панели, минеральная вата 50 мм</name>
+        <description>Стеновые сэндвич-панели с минеральной ватой толщиной 50 мм. Обладают огнестойкостью, низкой теплопроводностью и устойчивостью к повышенной влажности.</description>
+      </offer>
+
+      <offer id="wall-mw-60" available="true">
+        <url>https://amorant.org/katalog/tproduct/794695873-309134979811-stenovie-napolnitel-mineralnaya-vata-60</url>
+        <price>2299</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild3239-6636-4132-b030-303265653730/-/cover/720x700/center/center/-/format/webp/-A-5fp2b5bE.jpg.webp</picture>
+        <name>Стеновые сэндвич-панели, минеральная вата 60 мм</name>
+        <description>Стеновые сэндвич-панели с минеральной ватой толщиной 60 мм. Обеспечивают пожарную безопасность и надёжную теплоизоляцию.</description>
+      </offer>
+
+      <offer id="wall-mw-80" available="true">
+        <url>https://amorant.org/katalog/tproduct/794695873-755298725131-stenovie-napolnitel-mineralnaya-vata-80</url>
+        <price>2399</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild3233-3135-4235-b732-653934343263/-/cover/720x700/center/center/-/format/webp/g7QIKgn5_BA.jpg.webp</picture>
+        <name>Стеновые сэндвич-панели, минеральная вата 80 мм</name>
+        <description>Стеновые панели с минеральной ватой толщиной 80 мм для зданий с повышенными требованиями к тепло- и огнезащите.</description>
+      </offer>
+
+      <offer id="wall-mw-100" available="true">
+        <url>https://amorant.org/katalog/tproduct/794695873-650379262651-stenovie-napolnitel-mineralnaya-vata-100</url>
+        <price>2499</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild3133-6139-4561-a366-396132393935/-/cover/720x700/center/center/-/format/webp/512.jpg.webp</picture>
+        <name>Стеновые сэндвич-панели, минеральная вата 100 мм</name>
+        <description>Стеновые панели с минеральной ватой толщиной 100 мм с высокой теплоизоляцией и пожаробезопасностью.</description>
+      </offer>
+
+      <!-- Минеральная вата, кровельные -->
+      <offer id="roof-mw-60" available="true">
+        <url>https://amorant.org/katalog/tproduct/794695873-119243161691-krovelnie-napolnitel-mineralnaya-vata-60</url>
+        <price>2499</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild3536-6433-4338-b766-383138613261/-/cover/720x700/center/center/-/format/webp/512.jpg.webp</picture>
+        <name>Кровельные сэндвич-панели, минеральная вата 60 мм</name>
+        <description>Кровельные панели с минеральной ватой 60 мм для надёжной тепло- и звукоизоляции кровли.</description>
+      </offer>
+
+      <offer id="roof-mw-80" available="true">
+        <url>https://amorant.org/katalog/tproduct/794695873-402992448021-krovelnie-napolnitel-mineralnaya-vata-80</url>
+        <price>2599</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild3732-6430-4361-a239-323433303034/-/cover/720x700/center/center/-/format/webp/506.jpg.webp</picture>
+        <name>Кровельные сэндвич-панели, минеральная вата 80 мм</name>
+        <description>Кровельные сэндвич-панели с минеральной ватой толщиной 80 мм для объектов с высокими требованиями к теплоизоляции.</description>
+      </offer>
+
+      <offer id="roof-mw-100" available="true">
+        <url>https://amorant.org/katalog/tproduct/794695873-814027663721-krovelnie-napolnitel-mineralnaya-vata-10</url>
+        <price>2699</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild3439-3333-4937-b665-613565386263/-/cover/720x700/center/center/-/format/webp/711970.jpg.webp</picture>
+        <name>Кровельные сэндвич-панели, минеральная вата 100 мм</name>
+        <description>Кровельные панели с минеральной ватой толщиной 100 мм для максимально тёплых и огнестойких кровель.</description>
+      </offer>
+
+      <!-- ПИР, стеновые -->
+      <offer id="wall-pir-50" available="true">
+        <url>https://amorant.org/katalog/tproduct/794695881-160525328111-stenovie-napolnitel-pir-50mm</url>
+        <price>2499</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild3634-3931-4536-a234-613364653636/-/cover/720x700/center/center/-/format/webp/00c09aef4a31b45da46e.jpeg.webp</picture>
+        <name>Стеновые сэндвич-панели, ПИР 50 мм</name>
+        <description>Стеновые сэндвич-панели с наполнителем ПИР толщиной 50 мм. Обладают низкой теплопроводностью и малым весом.</description>
+      </offer>
+
+      <offer id="wall-pir-60" available="true">
+        <url>https://amorant.org/katalog/tproduct/794695881-457838289321-stenovie-napolnitel-pir-60mm</url>
+        <price>2499</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild6337-3934-4634-a465-343035623966/-/cover/720x700/center/center/-/format/webp/_MG_0502.jpg.webp</picture>
+        <name>Стеновые сэндвич-панели, ПИР 60 мм</name>
+        <description>Стеновые панели ПИР толщиной 60 мм для энергоэффективных ограждающих конструкций.</description>
+      </offer>
+
+      <offer id="wall-pir-80" available="true">
+        <url>https://amorant.org/katalog/tproduct/794695881-239772008321-stenovie-napolnitel-pir-80mm</url>
+        <price>2699</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild6439-6162-4739-a662-393131346162/-/cover/720x700/center/center/-/format/webp/3bfa75354681bed87a6d.jpeg.webp</picture>
+        <name>Стеновые сэндвич-панели, ПИР 80 мм</name>
+        <description>Стеновые панели с ПИР толщиной 80 мм для зданий с высокими требованиями к теплоизоляции.</description>
+      </offer>
+
+      <offer id="wall-pir-100" available="true">
+        <url>https://amorant.org/katalog/tproduct/794695881-864538670141-stenovie-napolnitel-pir-100mm</url>
+        <price>2899</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild6361-3337-4631-a563-323164636263/-/cover/720x700/center/center/-/format/webp/289_original.jpg.webp</picture>
+        <name>Стеновые сэндвич-панели, ПИР 100 мм</name>
+        <description>Стеновые ПИР-панели толщиной 100 мм с максимальной теплоизоляцией при малом весе.</description>
+      </offer>
+
+      <!-- ПИР, кровельные -->
+      <offer id="roof-pir-50" available="true">
+        <url>https://amorant.org/katalog/tproduct/794695881-489982924991-krovelnie-napolnitel-pir-50mm</url>
+        <price>2699</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild6435-3661-4766-b331-306163653463/-/cover/720x700/center/center/-/format/webp/555_original.jpeg.webp</picture>
+        <name>Кровельные сэндвич-панели, ПИР 50 мм</name>
+        <description>Кровельные панели с ПИР толщиной 50 мм. Лёгкие и жёсткие, подходят для промышленных кровель.</description>
+      </offer>
+
+      <offer id="roof-pir-60" available="true">
+        <url>https://amorant.org/katalog/tproduct/794695881-964196416981-krovelnie-napolnitel-pir-60mm</url>
+        <price>2699</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild3039-3265-4364-a361-653538323463/-/cover/720x700/center/center/-/format/webp/sendvich-paneli-dlya.jpg.webp</picture>
+        <name>Кровельные сэндвич-панели, ПИР 60 мм</name>
+        <description>Кровельные ПИР-панели толщиной 60 мм с высокой жёсткостью и теплоизоляцией.</description>
+      </offer>
+
+      <offer id="roof-pir-80" available="true">
+        <url>https://amorant.org/katalog/tproduct/794695881-939473758891-krovelnie-napolnitel-pir-80mm</url>
+        <price>2899</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild3862-6336-4139-b036-383130333566/-/cover/720x700/center/center/-/format/webp/sip-72dd.jpg.webp</picture>
+        <name>Кровельные сэндвич-панели, ПИР 80 мм</name>
+        <description>Кровельные панели ПИР толщиной 80 мм для энергоэффективных кровельных систем.</description>
+      </offer>
+
+      <offer id="roof-pir-100" available="true">
+        <url>https://amorant.org/katalog/tproduct/794695881-796952444411-krovelnie-napolnitel-pir-100mm</url>
+        <price>2999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild3534-3132-4263-a236-353130333062/-/cover/720x700/center/center/-/format/webp/scale_1200.jpeg.webp</picture>
+        <name>Кровельные сэндвич-панели, ПИР 100 мм</name>
+        <description>Кровельные сэндвич-панели с ПИР толщиной 100 мм для тёплых и надёжных кровель.</description>
+      </offer>
+
+      <!-- Пенополистирол, стеновые -->
+      <offer id="wall-pps-50" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696299-523801681011-stenovie-napolnitel-penopolistirol-50-mm</url>
+        <price>2099</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild6636-6461-4439-b664-656535306238/-/cover/720x700/center/center/-/format/webp/7is8h7GQ1mk.jpg.webp</picture>
+        <name>Стеновые сэндвич-панели, пенополистирол 50 мм</name>
+        <description>Стеновые панели с пенополистиролом толщиной 50 мм. Лёгкие и тёплые, ускоряют строительство.</description>
+      </offer>
+
+      <offer id="wall-pps-60" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696299-521294200751-stenovie-napolnitel-penополistiрол-60-mm</url>
+        <price>2099</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild3930-3934-4865-b536-376664646236/-/cover/720x700/center/center/-/format/webp/lRtPxaV17vQ.jpg.webp</picture>
+        <name>Стеновые сэндвич-панели, пенополистирол 60 мм</name>
+        <description>Стеновые сэндвич-панели с пенополистиролом толщиной 60 мм для эффективного энергосбережения.</description>
+      </offer>
+
+      <offer id="wall-pps-80" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696299-834085598461-stenovie-napolnitel-penополistiрол-80-mm</url>
+        <price>2199</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild3163-6333-4538-b439-373734343237/-/cover/720x700/center/center/-/format/webp/eRZEGcUKVK4.jpg.webp</picture>
+        <name>Стеновые сэндвич-панели, пенополистирол 80 мм</name>
+        <description>Стеновые панели с пенополистиролом толщиной 80 мм. Совмещают доступную цену и хорошую теплоизоляцию.</description>
+      </offer>
+
+      <offer id="wall-pps-100" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696299-703640462971-stenovie-napolnitel-penополistiрол-100-m</url>
+        <price>2299</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild6430-6234-4632-b865-663336393939/-/cover/720x700/center/center/-/format/webp/T4EMRNRlo3U.jpg.webp</picture>
+        <name>Стеновые сэндвич-панели, пенополистирол 100 мм</name>
+        <description>Стеновые панели с пенополистиролом толщиной 100 мм. Обеспечивают высокую теплоизоляцию при малом весе.</description>
+      </offer>
+
+      <!-- Пенополистирол, кровельные -->
+      <offer id="roof-pps-50" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696299-993879619211-krovelnie-napолnitel-penополistiрол-50-m</url>
+        <price>2099</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild3861-3533-4230-b766-336536366465/-/cover/720x700/center/center/-/format/webp/210.jpg.webp</picture>
+        <name>Кровельные сэндвич-панели, пенополистирол 50 мм</name>
+        <description>Кровельные панели с пенополистиролом толщиной 50 мм. Лёгкие и удобные в монтаже.</description>
+      </offer>
+
+      <offer id="roof-pps-80" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696299-153408428121-krovelnie-napолnitel-penополistiрол-80-m</url>
+        <price>2399</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild3437-3866-4637-a338-623063643334/-/cover/720x700/center/center/-/format/webp/210.jpg.webp</picture>
+        <name>Кровельные сэндвич-панели, пенополистирол 80 мм</name>
+        <description>Кровельные панели с пенополистиролом толщиной 80 мм для тёплых и лёгких кровель.</description>
+      </offer>
+
+      <offer id="roof-pps-100" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696299-473708865981-krovelnie-napолnitel-penополistiрол-100</url>
+        <price>2499</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://optim.tildacdn.com/tild3962-6333-4637-a332-356634643839/-/cover/720x700/center/center/-/format/webp/216.jpg.webp</picture>
+        <name>Кровельные сэндвич-панели, пенополистирол 100 мм</name>
+        <description>Кровельные панели с пенополистиролом толщиной 100 мм. Тёплые, лёгкие и экономичные.</description>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
