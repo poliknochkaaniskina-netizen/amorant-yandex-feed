@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-12-04 12:00">
+  <shop>
+    <name>Amorant</name>
+    <company>Amorant</company>
+    <url>https://amorant.org/</url>
+
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+
+    <categories>
+      <category id="1">Линеарные панели</category>
+      <category id="2">Фасадные кассеты</category>
+      <category id="3">Некондиция</category>
+      <category id="4">Монтаж сэндвич-панелей</category>
+      <category id="5">Строительство "под ключ"</category>
+      <category id="6">Mеталлокoнстpукции</category>
+      <category id="7">Домокомплект</category>
+      <category id="8">Холодильные двери</category>
+      <category id="9">Сплит-системы</category>
+      <category id="10">Морозильное оборудование</category>
+      <category id="11">Чиллеры</category>
+      <category id="12">Холодильные камеры</category>
+    </categories>
+
+    <offers>
+
+
+      <!-- Линеарные панели (категория 1) -->
+      <offer id="1" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696441-452027598751-linearnie-paneli-045-mm</url>
+        <price>1249</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://optim.tildacdn.com/tild3938-3338-4163-b734-386564303361/-/format/webp/ce6d5f23f8b0b0196fb9.jpg.webp</picture>
+        <name>Линеарные панели - 0,45 мм</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Лёгкие и прочные металлические линеарные панели толщиной 0,45 мм для фасадов и интерьеров. Устойчивы к коррозии, просты в монтаже и подходят для декоративной отделки с минимальной нагрузкой на конструкции.]]></description>
+      </offer>
+
+      <offer id="2" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696441-659128095381-linearnie-paneli-05-mm</url>
+        <price>1299</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://optim.tildacdn.com/tild3038-6263-4739-a133-386639386137/-/format/webp/ce6d5f23f8b0b0196fb9.jpg.webp</picture>
+        <name>Линеарные панели - 0,5 мм</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Усиленные линеарные панели толщиной 0,5 мм с повышенной жёсткостью. Используются для фасадов, потолков и декоративных элементов, где важна дополнительная прочность и стабильная геометрия.]]></description>
+      </offer>
+
+      <offer id="3" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696441-520281451432-linearnie-paneli-07-mm</url>
+        <price>1399</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://optim.tildacdn.com/stor6137-6239-4461-b838-326134316239/-/format/webp/73696ec64e742f35941365641b947bae.jpg.webp</picture>
+        <name>Линеарные панели - 0,7 мм</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Линеарные панели толщиной 0,7 мм для быстрого круглогодичного монтажа в фасадных и вентилируемых системах. Толщина металла до 0,7 мм, длина до 6 м, изготовление по индивидуальным размерам, высокая долговечность и устойчивость к внешним воздействиям.]]></description>
+      </offer>
+
+      <!-- Фасадные кассеты (категория 2) -->
+      <offer id="4" available="true">
+        <url>https://amorant.org/katalog/tproduct/1607860571-412500311861-fasadnaya-kasseta-05-mm</url>
+        <price>1099</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://static.tildacdn.com/tild3364-6464-4163-a139-396465646333/liberta_original_102.jpg</picture>
+        <name>Фасадная кассета - 0,5 мм</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Фасадные кассеты из металла толщиной 0,5 мм для облицовки фасадов. Длина от 0,6 до 3 м, стандартные ширины 244, 347 и 557 мм, возможно изготовление по индивидуальным размерам. Гарантия на металл от 5 лет.]]></description>
+      </offer>
+
+      <offer id="5" available="true">
+        <url>https://amorant.org/katalog/tproduct/1607860571-241539854031-fasadnaya-kasseta-07-mm</url>
+        <price>1399</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://optim.tildacdn.com/tild3639-3530-4261-a537-663730633166/-/format/webp/M9ZEFKhpJhqNgUJQ.jpg.webp</picture>
+        <name>Фасадная кассета - 0,7 мм</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Усиленные фасадные кассеты из металла толщиной 0,7 мм. Предназначены для долговечной облицовки фасадов, отличаются повышенной прочностью, возможностью изготовления по размерам заказчика и гарантией на металл от 5 лет.]]></description>
+      </offer>
+
+      <!-- Некондиция (категория 3) -->
+      <offer id="7" available="true">
+        <url>https://amorant.org/katalog/tproduct/1622503751-742967718882-sendvich-paneli-napolnitel-mineralnaya-v</url>
+        <price>2199</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://optim.tildacdn.com/stor3465-3138-4765-a639-323664396435/-/format/webp/f271223e9417b4779974f3373385725b.jpg.webp</picture>
+        <name>Сэндвич-панели, наполнитель минеральная вата (некондиция)</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Сэндвич-панели с наполнителем из минеральной ваты (некондиция). Толщина 100 мм, ширина 1 м. Подходят для бюджетного строительства и хозобъектов, где допустимы внешние дефекты при сохранении теплоизоляции.]]></description>
+      </offer>
+
+      <offer id="8" available="true">
+        <url>https://amorant.org/katalog/tproduct/1622503751-856066833852-sendvich-paneli-napolnitel-penopolistiro</url>
+        <price>1399</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://optim.tildacdn.com/stor3335-6465-4535-a235-356631363861/-/format/webp/3468bb2d170868b895ab7993b6e0ff4a.jpg.webp</picture>
+        <name>Сэндвич-панели, наполнитель пенополистирол (некондиция)</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Сэндвич-панели с наполнителем из пенополистирола (некондиция). Толщина 100 мм, ширина 1,0 / 1,19 / 1,2 м. Экономичный вариант при сохранении основных теплоизоляционных свойств.]]></description>
+      </offer>
+
+      <!-- Монтаж сэндвич-панелей (категория 4) -->
+      <offer id="6" available="true">
+        <url>https://amorant.org/katalog/tproduct/798152850-461822101051-montazh-sendvich-panelei</url>
+        <price>499</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://optim.tildacdn.com/tild6461-3531-4162-b336-306264336334/-/format/webp/3.jpg.webp</picture>
+        <name>Монтаж сэндвич-панелей</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Профессиональный монтаж сэндвич-панелей «под ключ»: расчёт, доставка и установка. Соблюдение герметичности узлов, тепло- и звукоизоляции, защита от атмосферных воздействий.]]></description>
+      </offer>
+
+      <!-- Строительство "под ключ" (категория 5) -->
+      <offer id="9" available="true">
+        <url>https://amorant.org/katalog#!/tproduct/1614135691-1328546817190</url>
+        <price>25000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://optim.tildacdn.com/tild6536-6235-4534-b733-346635643736/-/format/webp/5256218068642369047_.jpg.webp</picture>
+        <name>Строительство "под ключ"</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Строительство быстровозводимых зданий «под ключ» от проекта до сдачи объекта. Экономия времени и бюджета, фиксированная цена в договоре, энергоэффективные решения и гарантия на работы и конструкции. Цена за 1 м².]]></description>
+      </offer>
+
+      <!-- Mеталлокoнстpукции (категория 6) -->
+      <offer id="10" available="true">
+        <url>https://amorant.org/katalog#!/tproduct/1614131411-8548546817190</url>
+        <price>55000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://optim.tildacdn.com/tild6535-3330-4436-b937-616566626530/-/format/webp/-4.jpg.webp</picture>
+        <name>Mеталлокoнстpукции для склада, ангаpа, фeрм</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Производство и монтаж металлоконструкций для складов, ангаров и ферм. Антикоррозийная защита, дробеструйная обработка, порошковая окраска, изготовление по чертежам заказчика и разработка документации КМ/КМД.]]></description>
+      </offer>
+
+      <!-- Домокомплект (категория 7) -->
+      <offer id="11" available="true">
+        <url>https://amorant.org/katalog#!/tproduct/1614142191-4878546817190</url>
+        <price>30000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://optim.tildacdn.com/tild3761-3636-4737-a361-633966316132/-/format/webp/ojpm1ho229rmpou3kfb4.jpg.webp</picture>
+        <name>Домокомплект</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Домокомплект для строительства быстровозводимых зданий. Полный комплект конструкций и документации, гарантия на материалы и работы, сопровождение и высокие темпы возведения. Цена за 1 м².]]></description>
+      </offer>
+
+      <!-- Холодильные двери (категория 8) -->
+      <offer id="12" available="true">
+        <url>https://amorant.org/katalog/tproduct/1622516111-137571326302-otkatnie-dveri-odno-i-dvustvorchatie</url>
+        <price>92000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://optim.tildacdn.com/stor3832-6536-4662-b837-373531366262/-/format/webp/76fd366f09313547a3d97086f13d8fc1.webp</picture>
+        <name>Откатные двери одно- и двустворчатые</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Откатные одно- и двустворчатые холодильные двери толщиной 80 и 120 мм. Средне- и низкотемпературное исполнение, ширина проёма 1200–2400 мм, высота 1860–3000 мм, возможна установка электропривода и исполнение с порогом или без.]]></description>
+      </offer>
+
+      <offer id="13" available="true">
+        <url>https://amorant.org/katalog/tproduct/1622516111-291247919122-raspashnie-dveri-odnostvorchatie</url>
+        <price>35000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://optim.tildacdn.com/stor6430-6161-4063-b762-353663343232/-/format/webp/d2a07327b24a844f3781bcd8021ac965.webp</picture>
+        <name>Распашные двери одностворчатые</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Распашные одностворчатые холодильные двери толщиной 80 и 120 мм. Средне- и низкотемпературное исполнение, ширина проёма 800–1400 мм, высота 1856–2200 мм, регулируемые петли, итальянская фурнитура с аварийным открыванием.]]></description>
+      </offer>
+
+      <offer id="14" available="true">
+        <url>https://amorant.org/katalog/tproduct/1622516111-769909702872-holodilnaya-otkatnaya-dver</url>
+        <price>53000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://optim.tildacdn.com/stor3433-6633-4765-a161-356261393062/-/format/webp/cf9b5a05c8bfb6e48da5117864504d6a.webp</picture>
+        <name>Холодильная откатная дверь</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Холодильная откатная дверь толщиной 80 и 120 мм. Средне- и низкотемпературное исполнение, ширина светового проёма 800–1400 мм, высота 1840–2200 мм, конструкция с нижней направляющей и монорельсом, возможна комплектация электроприводом.]]></description>
+      </offer>
+
+      <!-- Сплит-системы (категория 9) -->
+      <offer id="15" available="true">
+        <url>https://amorant.org/katalog/tproduct/798153019-889562354862-holodilnaya-split-sistema-s115</url>
+        <price>94128</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://optim.tildacdn.com/stor3531-6663-4233-a563-643632393335/-/format/webp/52137430.png.webp</picture>
+        <name>Холодильная сплит-система S115 Belluna</name>
+        <vendor>Belluna</vendor>
+        <description><![CDATA[Холодильная сплит-система S115 Belluna, серия «Эконом», навесного типа, для среднетемпературных камер объёмом 9,3–15,1 м³. Диапазон +2…+22 °C, ротационный компрессор GMCC-Toshiba, потребление 0,82 кВт.]]></description>
+      </offer>
+
+      <offer id="16" available="true">
+        <url>https://amorant.org/katalog/tproduct/798153019-483088453832-holodilnaya-split-sistema-s115-w-dlya-hr</url>
+        <price>102153</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://optim.tildacdn.com/stor3863-3262-4539-b965-343134633931/-/format/webp/13187230.png.webp</picture>
+        <name>Холодильная сплит-система S115 W для хранения вина Belluna</name>
+        <vendor>Belluna</vendor>
+        <description><![CDATA[Сплит-система S115 W серии «Эконом.Вино» с зимним комплектом для винных погребов и камер. Диапазон +7…+25 °C, влажность 60–80 %, объём камеры 13–26 м³, оптимальные условия для хранения и созревания вина.]]></description>
+      </offer>
+
+      <offer id="17" available="true">
+        <url>https://amorant.org/katalog/tproduct/798153019-166066762052-holodilnaya-split-sistema-s218w-dlya-hra</url>
+        <price>114460</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://optim.tildacdn.com/stor3863-3262-4539-b965-343134633931/-/format/webp/13187230.png.webp</picture>
+        <name>Холодильная сплит-система S218W для хранения вина Belluna</name>
+        <vendor>Belluna</vendor>
+        <description><![CDATA[Холодильная сплит-система S218W серии «Эконом.Вино» для винных камер объёмом 17–33 м³. Диапазон +7…+25 °C, поддержание требуемой температуры и влажности для правильного хранения вина.]]></description>
+      </offer>
+
+      <offer id="18" available="true">
+        <url>https://amorant.org/katalog/tproduct/798153019-214631080802-holodilnaya-split-sistema-s226-w-dlya-hr</url>
+        <price>138490</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://optim.tildacdn.com/stor3863-3262-4539-b965-343134633931/-/format/webp/13187230.png.webp</picture>
+        <name>Холодильная сплит-система S226 W для хранения вина Belluna</name>
+        <vendor>Belluna</vendor>
+        <description><![CDATA[Холодильная сплит-система S226 W серии «Эконом.Вино» для винных камер объёмом 27–47 м³. Диапазон +7…+25 °C, высокая энергоэффективность и стабильные условия хранения коллекционных вин.]]></description>
+      </offer>
+
+      <offer id="19" available="true">
+        <url>https://amorant.org/katalog/tproduct/798153019-585890025842-holodilnaya-split-sistema-monoblok-s115</url>
+        <price>90153</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://optim.tildacdn.com/stor3531-6663-4233-a563-643632393335/-/format/webp/52137430.png.webp</picture>
+        <name>Холодильная сплит-система (моноблок) S115 W Belluna</name>
+        <vendor>Belluna</vendor>
+        <description><![CDATA[Холодильная сплит-система-моноблок S115 W, серия «Эконом», для среднетемпературных камер объёмом 6,8–12,5 м³. Диапазон +2…+22 °C, зимний комплект, полная базовая комплектация без доработок.]]></description>
+      </offer>
+
+      <offer id="20" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696544-313388611372-split-sistema-ss-12-eco-ask</url>
+        <price>58955</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://optim.tildacdn.com/stor3033-6237-4232-b339-303734623263/-/format/webp/28073440.jpg.webp</picture>
+        <name>Сплит-система СС-12 ECO АСК</name>
+        <vendor>АСК</vendor>
+        <description><![CDATA[Сплит-система СС-12 ECO АСК — надёжная среднетемпературная установка навесного типа для холодильных помещений. Диапазон +2…+22 °C, ротационный компрессор GMCC-Toshiba, сниженное энергопотребление.]]></description>
+      </offer>
+
+      <offer id="21" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696544-928581232662-split-sistema-ss-11-eco-ask</url>
+        <price>58227</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://optim.tildacdn.com/stor3033-6237-4232-b339-303734623263/-/format/webp/28073440.jpg.webp</picture>
+        <name>Сплит-система СС-11 ECO АСК</name>
+        <vendor>АСК</vendor>
+        <description><![CDATA[Сплит-система СС-11 ECO АСК — компактная и энергоэффективная среднетемпературная установка для небольших холодильных камер. Диапазон +2…+22 °C, ротационный компрессор GMCC-Toshiba, низкое энергопотребление.]]></description>
+      </offer>
+
+      <offer id="22" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696544-365758049062-split-sistema-ss-21-eco-ask</url>
+        <price>94031</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://optim.tildacdn.com/stor3033-6237-4232-b339-303734623263/-/format/webp/28073440.jpg.webp</picture>
+        <name>Сплит-система СС-21 ECO АСК</name>
+        <vendor>АСК</vendor>
+        <description><![CDATA[Сплит-система СС-21 ECO АСК — более мощная модель серии ECO для средних и увеличенных холодильных помещений. Диапазон +2…+22 °C, экономичный режим работы и стабильное поддержание температуры.]]></description>
+      </offer>
+
+      <offer id="23" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696544-321536322692-split-sistema-sn-21-eco-ask</url>
+        <price>90542</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://optim.tildacdn.com/stor3039-6232-4963-b930-636134613634/-/format/webp/75636223.png.webp</picture>
+        <name>Сплит-система СН-21 ECO АСК</name>
+        <vendor>АСК</vendor>
+        <description><![CDATA[Сплит-система СН-21 ECO АСК — самая мощная модель линейки CH-серии для средних и крупных камер хранения. Диапазон +2…+22 °C, высокая энергоэффективность и надёжность при длительной непрерывной работе.]]></description>
+      </offer>
+
+      <offer id="24" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696544-278627707912-split-sistema-sn-12-eco-ask</url>
+        <price>72664</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://optim.tildacdn.com/stor3436-3136-4533-b061-316639323734/-/format/webp/51833271.jpg.webp</picture>
+        <name>Сплит-система СН-12 ECO АСК</name>
+        <vendor>АСК</vendor>
+        <description><![CDATA[Сплит-система СН-12 ECO АСК — универсальная среднетемпературная модель для камер среднего объёма. Диапазон +2…+22 °C, сниженное энергопотребление и полная заводская комплектация.]]></description>
+      </offer>
+
+      <!-- Морозильное оборудование (категория 10) -->
+      <offer id="25" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696639-116598814372-monoblok-ms-11-eco-ask</url>
+        <price>56853</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://optim.tildacdn.com/stor3765-3762-4834-a133-313562386538/-/format/webp/60876285.png.webp</picture>
+        <name>Моноблок МС-11 ECO АСК</name>
+        <vendor>АСК</vendor>
+        <description><![CDATA[Моноблок МС-11 ECO АСК — компактная и экономичная среднетемпературная холодильная установка моноблочного навесного типа. Полностью готов к монтажу, обеспечивает стабильный температурный режим и тихую работу.]]></description>
+      </offer>
+
+      <offer id="26" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696639-668074304022-monoblok-ms-12-eco-ask</url>
+        <price>57473</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://optim.tildacdn.com/stor3765-3762-4834-a133-313562386538/-/format/webp/60876285.png.webp</picture>
+        <name>Моноблок МС-12 ECO АСК</name>
+        <vendor>АСК</vendor>
+        <description><![CDATA[Моноблок МС-12 ECO АСК — универсальная среднетемпературная холодильная установка моноблочного типа для средних камер. Обеспечивает точное поддержание температуры и минимальные эксплуатационные расходы.]]></description>
+      </offer>
+
+      <offer id="27" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696639-491909415812-monoblok-ms-13-eco-ask</url>
+        <price>63926</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://optim.tildacdn.com/stor3765-3762-4834-a133-313562386538/-/format/webp/60876285.png.webp</picture>
+        <name>Моноблок МС-13 ECO АСК</name>
+        <vendor>АСК</vendor>
+        <description><![CDATA[Моноблок МС-13 ECO АСК — более мощная среднетемпературная модель серии ECO для камер с повышенной нагрузкой. Обеспечивает высокую производительность, энергоэффективную и стабильную работу.]]></description>
+      </offer>
+
+      <offer id="28" available="true">
+        <url>https://amorant.org/katalog/tproduct/794696639-460184343422-monoblok-ms-11-ask</url>
+        <price>65597</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://optim.tildacdn.com/stor3039-3666-4231-b732-376334396263/-/format/webp/79945569.png.webp</picture>
+        <name>Моноблок МС-11 АСК</name>
+        <vendor>АСК</vendor>
+        <description><![CDATA[Моноблок МС-11 АСК стандартной серии — надёжная среднетемпературная установка навесного типа для круглосуточной работы. Усиленная конструкция, расширенная комплектация и увеличенный ресурс по сравнению с ECO-серией.]]></description>
+      </offer>
+
+      <!-- Чиллеры (категория 11) -->
+      <offer id="29" available="true">
+        <url>https://amorant.org/katalog/tproduct/798153142-210431662982-chiller-belluno-x03</url>
+        <price>195490</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://optim.tildacdn.com/stor3539-6333-4764-b739-373236303636/-/format/webp/95675490.png.webp</picture>
+        <name>Чиллер Belluno X03</name>
+        <vendor>Belluno</vendor>
+        <description><![CDATA[Чиллер Belluno X03 — компактный и эффективный охладитель жидкости. Температура охлаждаемой жидкости от -3 до +15 °C, холодопроизводительность 3,30 кВт, питание 220 В, рекомендуемый расход воды 0,8–1,0 м³/ч через теплообменник.]]></description>
+      </offer>
+
+      <offer id="30" available="true">
+        <url>https://amorant.org/katalog/tproduct/798153142-474841432422-chiller-belluno-x05</url>
+        <price>266159</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://optim.tildacdn.com/stor3539-6333-4764-b739-373236303636/-/format/webp/95675490.png.webp</picture>
+        <name>Чиллер Belluno X05</name>
+        <vendor>Belluno</vendor>
+        <description><![CDATA[Чиллер Belluno X05 — высокоэффективный охлаждатель жидкости. Температура охлаждаемой жидкости от -3 до +15 °C, холодопроизводительность 5,00 кВт, питание 220 В, рекомендуемый расход воды 1,1–1,5 м³/ч через теплообменник.]]></description>
+      </offer>
+
+      <!-- Холодильные камеры (категория 12) -->
+      <offer id="31" available="true">
+        <url>https://amorant.org/katalog/tproduct/798152811-820925301292-holodilnaya-kamera-kh-1175</url>
+        <price>158500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://optim.tildacdn.com/stor6134-6561-4338-a263-616333343961/-/format/webp/65410954.png.webp</picture>
+        <name>Холодильная камера КХ-11,75</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Холодильная камера КХ-11,75 — модульная сборно-разборная конструкция из сэндвич-панелей для охлаждения и хранения продуктов на предприятиях пищевой промышленности, общепита и торговли. Допускается эксплуатация при температуре от -30 до +40 °C.]]></description>
+      </offer>
+
+      <offer id="32" available="true">
+        <url>https://amorant.org/katalog/tproduct/798152811-612006222992-holodilnaya-kamera-kh-1102</url>
+        <price>144880</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://optim.tildacdn.com/stor6134-6561-4338-a263-616333343961/-/format/webp/65410954.png.webp</picture>
+        <name>Холодильная камера КХ-11,02</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Холодильная камера КХ-11,02 — легко монтируемая модульная сборно-разборная конструкция из трёхслойных сэндвич-панелей. Стеновые и потолочные панели из стального листа с полимерным покрытием, пол — из горячецинкованного стального листа.]]></description>
+      </offer>
+
+      <offer id="33" available="true">
+        <url>https://amorant.org/katalog/tproduct/798152811-159795798362-holodilnaya-kamera-kh-881</url>
+        <price>133000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://optim.tildacdn.com/tild3839-3131-4337-a339-633435636132/-/format/webp/65410954.png.webp</picture>
+        <name>Холодильная камера КХ-8,81</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Холодильная камера КХ-8,81 — модульная сборно-разборная конструкция из сэндвич-панелей для охлаждения и хранения продуктов. Соединение панелей «шип-паз» гарантирует герметичность и максимальную термоизоляцию.]]></description>
+      </offer>
+
+      <offer id="34" available="true">
+        <url>https://amorant.org/katalog/tproduct/798152811-600318947282-holodilnaya-kamera-kh-771</url>
+        <price>125000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://optim.tildacdn.com/stor6134-6561-4338-a263-616333343961/-/format/webp/65410954.png.webp</picture>
+        <name>Холодильная камера КХ-7,71</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Холодильная камера КХ-7,71 — модульная сборно-разборная конструкция из сэндвич-панелей, предназначенная для охлаждения и хранения продуктов. Оснащена распашной дверью с возможностью перенавешивания и аварийным открытием изнутри.]]></description>
+      </offer>
+
+      <offer id="35" available="true">
+        <url>https://amorant.org/katalog/tproduct/798152811-864791166852-holodilnaya-kamera-kh-661</url>
+        <price>110000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://optim.tildacdn.com/stor6134-6561-4338-a263-616333343961/-/format/webp/65410954.png.webp</picture>
+        <name>Холодильная камера КХ-6,61</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Холодильная камера КХ-6,61 — модульная сборно-разборная конструкция на основе трёхслойных сэндвич-панелей. Рассчитана на эксплуатацию при температуре окружающей среды от -30 до +40 °C, проста в обслуживании и монтаже.]]></description>
+      </offer>
+
+      <offer id="36" available="true">
+        <url>https://amorant.org/katalog/tproduct/798152811-748678253752-holodilnaya-kamera-kh-441</url>
+        <price>90000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://optim.tildacdn.com/stor6134-6561-4338-a263-616333343961/-/format/webp/65410954.png.webp</picture>
+        <name>Холодильная камера КХ-4,41</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Холодильная камера КХ-4,41 — компактная модульная сборно-разборная камера для предприятий торговли и общепита. Изготовлена из сэндвич-панелей с соединением «шип-паз», допускается эксплуатация на улице под навесом.]]></description>
+      </offer>
+
+      <offer id="37" available="true">
+        <url>https://amorant.org/katalog/tproduct/798152811-683746706422-holodilnaya-kamera-kh-294</url>
+        <price>77000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://optim.tildacdn.com/stor6134-6561-4338-a263-616333343961/-/format/webp/65410954.png.webp</picture>
+        <name>Холодильная камера КХ-2,94</name>
+        <vendor>Amorant</vendor>
+        <description><![CDATA[Холодильная камера КХ-2,94 — компактная модульная сборно-разборная конструкция из сэндвич-панелей. Предназначена для охлаждения и хранения продуктов в небольших камерах, отличается лёгкостью и быстротой монтажа.]]></description>
+      </offer>
+
+    
+    </offers>
+
+  </shop>
+</yml_catalog>
