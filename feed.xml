@@ -1,20 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-11T12:00:00+03:00">
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-07-07T16:44:26+03:00">
   <shop>
     <name>Аморант</name>
     <company>Аморант</company>
     <url>https://amorant.org/</url>
-
     <currencies>
-      <currency id="RUB" rate="1"/>
+      <currency id="RUB" rate="1" />
     </currencies>
-
     <categories>
       <category id="1">Сэндвич-панели</category>
+      <!-- Дополнительные услуги -->
+      <category id="2">Дополнительные услуги</category>
+      <category id="3" parentId="2">Монтаж и шеф-монтаж</category>
+      <category id="4" parentId="2">Выездной замер</category>
+      <category id="5" parentId="2">Строительство под ключ</category>
+      <category id="6" parentId="2">Металлоконструкции</category>
+      <category id="7" parentId="2">Проектирование</category>
+      <category id="8" parentId="2">Бетонные работы</category>
     </categories>
-
     <offers>
-
       <!-- Минеральная вата, стеновые -->
       <offer id="wall-mw-50" available="true">
         <url>https://amorant.org/katalog/tproduct/794695873-463872512451-stenovie-napolnitel-mineralnaya-vata-50</url>
@@ -26,7 +30,6 @@
         <name>Стеновые сэндвич-панели, минеральная вата 50 мм</name>
         <description>Стеновые сэндвич-панели с минеральной ватой толщиной 50 мм. Обладают огнестойкостью, низкой теплопроводностью и устойчивостью к повышенной влажности.</description>
       </offer>
-
       <offer id="wall-mw-60" available="true">
         <url>https://amorant.org/katalog/tproduct/794695873-309134979811-stenovie-napolnitel-mineralnaya-vata-60</url>
         <price>2299</price>
@@ -37,7 +40,6 @@
         <name>Стеновые сэндвич-панели, минеральная вата 60 мм</name>
         <description>Стеновые сэндвич-панели с минеральной ватой толщиной 60 мм. Обеспечивают пожарную безопасность и надёжную теплоизоляцию.</description>
       </offer>
-
       <offer id="wall-mw-80" available="true">
         <url>https://amorant.org/katalog/tproduct/794695873-755298725131-stenovie-napolnitel-mineralnaya-vata-80</url>
         <price>2399</price>
@@ -48,7 +50,6 @@
         <name>Стеновые сэндвич-панели, минеральная вата 80 мм</name>
         <description>Стеновые панели с минеральной ватой толщиной 80 мм для зданий с повышенными требованиями к тепло- и огнезащите.</description>
       </offer>
-
       <offer id="wall-mw-100" available="true">
         <url>https://amorant.org/katalog/tproduct/794695873-650379262651-stenovie-napolnitel-mineralnaya-vata-100</url>
         <price>2499</price>
@@ -59,7 +60,6 @@
         <name>Стеновые сэндвич-панели, минеральная вата 100 мм</name>
         <description>Стеновые панели с минеральной ватой толщиной 100 мм с высокой теплоизоляцией и пожаробезопасностью.</description>
       </offer>
-
       <!-- Минеральная вата, кровельные -->
       <offer id="roof-mw-60" available="true">
         <url>https://amorant.org/katalog/tproduct/794695873-119243161691-krovelnie-napolnitel-mineralnaya-vata-60</url>
@@ -71,7 +71,6 @@
         <name>Кровельные сэндвич-панели, минеральная вата 60 мм</name>
         <description>Кровельные панели с минеральной ватой 60 мм для надёжной тепло- и звукоизоляции кровли.</description>
       </offer>
-
       <offer id="roof-mw-80" available="true">
         <url>https://amorant.org/katalog/tproduct/794695873-402992448021-krovelnie-napolnitel-mineralnaya-vata-80</url>
         <price>2599</price>
@@ -82,7 +81,6 @@
         <name>Кровельные сэндвич-панели, минеральная вата 80 мм</name>
         <description>Кровельные сэндвич-панели с минеральной ватой толщиной 80 мм для объектов с высокими требованиями к теплоизоляции.</description>
       </offer>
-
       <offer id="roof-mw-100" available="true">
         <url>https://amorant.org/katalog/tproduct/794695873-814027663721-krovelnie-napolnitel-mineralnaya-vata-10</url>
         <price>2699</price>
@@ -93,7 +91,6 @@
         <name>Кровельные сэндвич-панели, минеральная вата 100 мм</name>
         <description>Кровельные панели с минеральной ватой толщиной 100 мм для максимально тёплых и огнестойких кровель.</description>
       </offer>
-
       <!-- ПИР, стеновые -->
       <offer id="wall-pir-50" available="true">
         <url>https://amorant.org/katalog/tproduct/794695881-160525328111-stenovie-napolnitel-pir-50mm</url>
@@ -105,7 +102,6 @@
         <name>Стеновые сэндвич-панели, ПИР 50 мм</name>
         <description>Стеновые сэндвич-панели с наполнителем ПИР толщиной 50 мм. Обладают низкой теплопроводностью и малым весом.</description>
       </offer>
-
       <offer id="wall-pir-60" available="true">
         <url>https://amorant.org/katalog/tproduct/794695881-457838289321-stenovie-napolnitel-pir-60mm</url>
         <price>2499</price>
@@ -116,7 +112,6 @@
         <name>Стеновые сэндвич-панели, ПИР 60 мм</name>
         <description>Стеновые панели ПИР толщиной 60 мм для энергоэффективных ограждающих конструкций.</description>
       </offer>
-
       <offer id="wall-pir-80" available="true">
         <url>https://amorant.org/katalog/tproduct/794695881-239772008321-stenovie-napolnitel-pir-80mm</url>
         <price>2699</price>
@@ -127,7 +122,6 @@
         <name>Стеновые сэндвич-панели, ПИР 80 мм</name>
         <description>Стеновые панели с ПИР толщиной 80 мм для зданий с высокими требованиями к теплоизоляции.</description>
       </offer>
-
       <offer id="wall-pir-100" available="true">
         <url>https://amorant.org/katalog/tproduct/794695881-864538670141-stenovie-napolnitel-pir-100mm</url>
         <price>2899</price>
@@ -138,7 +132,6 @@
         <name>Стеновые сэндвич-панели, ПИР 100 мм</name>
         <description>Стеновые ПИР-панели толщиной 100 мм с максимальной теплоизоляцией при малом весе.</description>
       </offer>
-
       <!-- ПИР, кровельные -->
       <offer id="roof-pir-50" available="true">
         <url>https://amorant.org/katalog/tproduct/794695881-489982924991-krovelnie-napolnitel-pir-50mm</url>
@@ -150,7 +143,6 @@
         <name>Кровельные сэндвич-панели, ПИР 50 мм</name>
         <description>Кровельные панели с ПИР толщиной 50 мм. Лёгкие и жёсткие, подходят для промышленных кровель.</description>
       </offer>
-
       <offer id="roof-pir-60" available="true">
         <url>https://amorant.org/katalog/tproduct/794695881-964196416981-krovelnie-napolnitel-pir-60mm</url>
         <price>2699</price>
@@ -161,7 +153,6 @@
         <name>Кровельные сэндвич-панели, ПИР 60 мм</name>
         <description>Кровельные ПИР-панели толщиной 60 мм с высокой жёсткостью и теплоизоляцией.</description>
       </offer>
-
       <offer id="roof-pir-80" available="true">
         <url>https://amorant.org/katalog/tproduct/794695881-939473758891-krovelnie-napolnitel-pir-80mm</url>
         <price>2899</price>
@@ -172,7 +163,6 @@
         <name>Кровельные сэндвич-панели, ПИР 80 мм</name>
         <description>Кровельные панели ПИР толщиной 80 мм для энергоэффективных кровельных систем.</description>
       </offer>
-
       <offer id="roof-pir-100" available="true">
         <url>https://amorant.org/katalog/tproduct/794695881-796952444411-krovelnie-napolnitel-pir-100mm</url>
         <price>2999</price>
@@ -183,7 +173,6 @@
         <name>Кровельные сэндвич-панели, ПИР 100 мм</name>
         <description>Кровельные сэндвич-панели с ПИР толщиной 100 мм для тёплых и надёжных кровель.</description>
       </offer>
-
       <!-- Пенополистирол, стеновые -->
       <offer id="wall-pps-50" available="true">
         <url>https://amorant.org/katalog/tproduct/794696299-523801681011-stenovie-napolnitel-penopolistirol-50-mm</url>
@@ -195,7 +184,6 @@
         <name>Стеновые сэндвич-панели, пенополистирол 50 мм</name>
         <description>Стеновые панели с пенополистиролом толщиной 50 мм. Лёгкие и тёплые, ускоряют строительство.</description>
       </offer>
-
       <offer id="wall-pps-60" available="true">
         <url>https://amorant.org/katalog/tproduct/794696299-521294200751-stenovie-napolnitel-penополistiрол-60-mm</url>
         <price>2099</price>
@@ -206,7 +194,6 @@
         <name>Стеновые сэндвич-панели, пенополистирол 60 мм</name>
         <description>Стеновые сэндвич-панели с пенополистиролом толщиной 60 мм для эффективного энергосбережения.</description>
       </offer>
-
       <offer id="wall-pps-80" available="true">
         <url>https://amorant.org/katalog/tproduct/794696299-834085598461-stenovie-napolnitel-penополistiрол-80-mm</url>
         <price>2199</price>
@@ -217,7 +204,6 @@
         <name>Стеновые сэндвич-панели, пенополистирол 80 мм</name>
         <description>Стеновые панели с пенополистиролом толщиной 80 мм. Совмещают доступную цену и хорошую теплоизоляцию.</description>
       </offer>
-
       <offer id="wall-pps-100" available="true">
         <url>https://amorant.org/katalog/tproduct/794696299-703640462971-stenovie-napolnitel-penополistiрол-100-m</url>
         <price>2299</price>
@@ -228,7 +214,6 @@
         <name>Стеновые сэндвич-панели, пенополистирол 100 мм</name>
         <description>Стеновые панели с пенополистиролом толщиной 100 мм. Обеспечивают высокую теплоизоляцию при малом весе.</description>
       </offer>
-
       <!-- Пенополистирол, кровельные -->
       <offer id="roof-pps-50" available="true">
         <url>https://amorant.org/katalog/tproduct/794696299-993879619211-krovelnie-napолnitel-penополistiрол-50-m</url>
@@ -240,7 +225,6 @@
         <name>Кровельные сэндвич-панели, пенополистирол 50 мм</name>
         <description>Кровельные панели с пенополистиролом толщиной 50 мм. Лёгкие и удобные в монтаже.</description>
       </offer>
-
       <offer id="roof-pps-80" available="true">
         <url>https://amorant.org/katalog/tproduct/794696299-153408428121-krovelnie-napолnitel-penополistiрол-80-m</url>
         <price>2399</price>
@@ -251,7 +235,6 @@
         <name>Кровельные сэндвич-панели, пенополистирол 80 мм</name>
         <description>Кровельные панели с пенополистиролом толщиной 80 мм для тёплых и лёгких кровель.</description>
       </offer>
-
       <offer id="roof-pps-100" available="true">
         <url>https://amorant.org/katalog/tproduct/794696299-473708865981-krovelnie-napолnitel-penополistiрол-100</url>
         <price>2499</price>
@@ -262,7 +245,67 @@
         <name>Кровельные сэндвич-панели, пенополистирол 100 мм</name>
         <description>Кровельные панели с пенополистиролом толщиной 100 мм. Тёплые, лёгкие и экономичные.</description>
       </offer>
-
+      <!-- Дополнительные услуги -->
+      <offer id="service-installation-supervision" available="true">
+        <url>https://amorant.org/uslugi</url>
+        <price>1000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://raw.githubusercontent.com/poliknochkaaniskina-netizen/amorant-yandex-feed/refs/heads/main/usluga-montazh-i-shef-montazh.png</picture>
+        <name>Монтаж и шеф-монтаж сэндвич-панелей</name>
+        <description>Монтаж и шеф-монтаж стеновых и кровельных сэндвич-панелей для складов, ангаров, магазинов, цехов и других быстровозводимых объектов. Стоимость от 1 000 ₽/м² с НДС при площади здания от 1 500 м². Территория работ: ЮФО и СКФО.</description>
+      </offer>
+      <offer id="service-site-measurement" available="true">
+        <url>https://amorant.org/uslugi</url>
+        <price>5000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://raw.githubusercontent.com/poliknochkaaniskina-netizen/amorant-yandex-feed/refs/heads/main/usluga-vyezdnoy-zamer.png</picture>
+        <name>Выездной замер объекта</name>
+        <description>Точный замер перед поставкой материалов, монтажом или строительством. Краснодар и до 50 км от Краснодара — бесплатно. Краснодарский край свыше 50 км — 5 000 ₽. Другие регионы ЮФО и СКФО — 10 000 ₽. При покупке материалов у «Аморант» стоимость замера вычитается из суммы заказа.</description>
+      </offer>
+      <offer id="service-turnkey-construction" available="true">
+        <url>https://amorant.org/</url>
+        <price>20000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://raw.githubusercontent.com/poliknochkaaniskina-netizen/amorant-yandex-feed/refs/heads/main/usluga-stroitelstvo-pod-klyuch.png</picture>
+        <name>Строительство быстровозводимых зданий под ключ</name>
+        <description>Строительство складов, ангаров, цехов, магазинов, производственных и коммерческих объектов: от фундамента и металлокаркаса до кровли, сэндвич-панелей и доборных элементов. Стоимость от 20 000 ₽/м² с НДС при площади здания от 1 500 м².</description>
+      </offer>
+      <offer id="service-metal-fabrication" available="true">
+        <url>https://amorant.org/metall_amoranthtml</url>
+        <price>30000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://raw.githubusercontent.com/poliknochkaaniskina-netizen/amorant-yandex-feed/refs/heads/main/usluga-izgotovlenie-metallokonstrukciy.png</picture>
+        <name>Изготовление металлоконструкций</name>
+        <description>Изготовление металлоконструкций для складов, ангаров, цехов, магазинов и других быстровозводимых зданий. Стоимость от 30 000 ₽/т с НДС при объёме объекта от 1 500 м².</description>
+      </offer>
+      <offer id="service-project-documentation" available="true">
+        <url>https://amorant.org/</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>7</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://raw.githubusercontent.com/poliknochkaaniskina-netizen/amorant-yandex-feed/refs/heads/main/usluga-proektnaya-dokumentaciya.png</picture>
+        <name>Разработка проектной документации КМ, КМД, КЖ</name>
+        <description>Разработка проектной документации для быстровозводимых зданий: КМ, КМД и КЖ. Стоимость от 500 ₽/м² с НДС. Подбираем состав проектных решений под размеры, назначение и конструктив объекта.</description>
+      </offer>
+      <offer id="service-concrete-works" available="true">
+        <url>https://amorant.org/</url>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Аморант</vendor>
+        <picture>https://raw.githubusercontent.com/poliknochkaaniskina-netizen/amorant-yandex-feed/refs/heads/main/usluga-betonnye-raboty.png</picture>
+        <name>Бетонные работы</name>
+        <description>Бетонные работы для быстровозводимых зданий: фундаменты, плиты, ростверки, площадки, полы и другие железобетонные конструкции. Стоимость от 8 000 ₽/м³ при площади здания от 1 500 м².</description>
+      </offer>
     </offers>
   </shop>
 </yml_catalog>
