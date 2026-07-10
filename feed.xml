@@ -252,7 +252,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <vendor>Аморант</vendor>
-        <picture>https://raw.githubusercontent.com/poliknochkaaniskina-netizen/amorant-yandex-feed/refs/heads/main/usluga-montazh-i-shef-montazh.png</picture>
+        <picture>https://poliknochkaaniskina-netizen.github.io/amorant-yandex-feed/usluga-montazh-i-shef-montazh.png</picture>
         <name>Монтаж и шеф-монтаж сэндвич-панелей</name>
         <description>Монтаж и шеф-монтаж стеновых и кровельных сэндвич-панелей для складов, ангаров, магазинов, цехов и других быстровозводимых объектов. Стоимость от 1 000 ₽/м² с НДС при площади здания от 1 500 м². Территория работ: ЮФО и СКФО.</description>
       </offer>
@@ -262,7 +262,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
         <vendor>Аморант</vendor>
-        <picture>https://raw.githubusercontent.com/poliknochkaaniskina-netizen/amorant-yandex-feed/refs/heads/main/usluga-vyezdnoy-zamer.png</picture>
+        <picture>https://poliknochkaaniskina-netizen.github.io/amorant-yandex-feed/usluga-vyezdnoy-zamer.png</picture>
         <name>Выездной замер объекта</name>
         <description>Точный замер перед поставкой материалов, монтажом или строительством. Краснодар и до 50 км от Краснодара — бесплатно. Краснодарский край свыше 50 км — 5 000 ₽. Другие регионы ЮФО и СКФО — 10 000 ₽. При покупке материалов у «Аморант» стоимость замера вычитается из суммы заказа.</description>
       </offer>
@@ -272,7 +272,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
         <vendor>Аморант</vendor>
-        <picture>https://raw.githubusercontent.com/poliknochkaaniskina-netizen/amorant-yandex-feed/refs/heads/main/usluga-stroitelstvo-pod-klyuch.png</picture>
+        <picture>https://poliknochkaaniskina-netizen.github.io/amorant-yandex-feed/usluga-stroitelstvo-pod-klyuch.png</picture>
         <name>Строительство быстровозводимых зданий под ключ</name>
         <description>Строительство складов, ангаров, цехов, магазинов, производственных и коммерческих объектов: от фундамента и металлокаркаса до кровли, сэндвич-панелей и доборных элементов. Стоимость от 20 000 ₽/м² с НДС при площади здания от 1 500 м².</description>
       </offer>
@@ -282,7 +282,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>6</categoryId>
         <vendor>Аморант</vendor>
-        <picture>https://raw.githubusercontent.com/poliknochkaaniskina-netizen/amorant-yandex-feed/refs/heads/main/usluga-izgotovlenie-metallokonstrukciy.png</picture>
+        <picture>https://poliknochkaaniskina-netizen.github.io/amorant-yandex-feed/usluga-izgotovlenie-metallokonstrukciy.png</picture>
         <name>Изготовление металлоконструкций</name>
         <description>Изготовление металлоконструкций для складов, ангаров, цехов, магазинов и других быстровозводимых зданий. Стоимость от 30 000 ₽/т с НДС при объёме объекта от 1 500 м².</description>
       </offer>
@@ -292,7 +292,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
         <vendor>Аморант</vendor>
-        <picture>https://raw.githubusercontent.com/poliknochkaaniskina-netizen/amorant-yandex-feed/refs/heads/main/usluga-proektnaya-dokumentaciya.png</picture>
+        <picture>https://poliknochkaaniskina-netizen.github.io/amorant-yandex-feed/usluga-proektnaya-dokumentaciya.png</picture>
         <name>Разработка проектной документации КМ, КМД, КЖ</name>
         <description>Разработка проектной документации для быстровозводимых зданий: КМ, КМД и КЖ. Стоимость от 500 ₽/м² с НДС. Подбираем состав проектных решений под размеры, назначение и конструктив объекта.</description>
       </offer>
@@ -302,7 +302,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
         <vendor>Аморант</vendor>
-        <picture>https://raw.githubusercontent.com/poliknochkaaniskina-netizen/amorant-yandex-feed/refs/heads/main/usluga-betonnye-raboty.png</picture>
+        <picture>https://poliknochkaaniskina-netizen.github.io/amorant-yandex-feed/usluga-betonnye-raboty.png</picture>
         <name>Бетонные работы</name>
         <description>Бетонные работы для быстровозводимых зданий: фундаменты, плиты, ростверки, площадки, полы и другие железобетонные конструкции. Стоимость от 8 000 ₽/м³ при площади здания от 1 500 м².</description>
       </offer>
